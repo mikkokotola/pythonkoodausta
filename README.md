@@ -1,2 +1,2 @@
-# pythonkoodausta
-Python-koodausta aloittelijoille
+# Python-koodausta
+Python-koodausta aloittelijoille.
