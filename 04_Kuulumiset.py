@@ -4,4 +4,4 @@
 # Käytä apunasi muuttujaa 'teksti'. Kokeile ajaa ohjelma useita kertoja ja syötä eri värejä.
 
 teksti = input('')
-print ('Kiva tietää, ' + teksti)
+print ('Kiva tietää,', teksti)
